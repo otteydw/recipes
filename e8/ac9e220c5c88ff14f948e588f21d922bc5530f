@@ -1,0 +1,16 @@
+README.md
+  h_16148b258796cf 11-14
+sides/cranberry_orange_relish.md
+  h_16148b258796cf 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "e8ac9e220c5c88ff14f948e588f21d922bc5530f",
+  "prompts": {},
+  "humans": {
+    "h_16148b258796cf": {
+      "author": "Daniel W. Ottey <dan@bluefrogs.us>"
+    }
+  }
+}
