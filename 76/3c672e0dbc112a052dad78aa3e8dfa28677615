@@ -1,0 +1,20 @@
+README.md
+  h_16148b258796cf 12-19,23
+breakfast/french_toast_bake.md
+  h_16148b258796cf 1-38
+drinks/pog_juice.md
+  h_16148b258796cf 1-14
+sides/potluck_potato_casserole.md
+  h_16148b258796cf 1-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "763c672e0dbc112a052dad78aa3e8dfa28677615",
+  "prompts": {},
+  "humans": {
+    "h_16148b258796cf": {
+      "author": "Daniel W. Ottey <dan@bluefrogs.us>"
+    }
+  }
+}
