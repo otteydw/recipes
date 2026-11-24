@@ -1,0 +1,20 @@
+.markdownlint-cli2.jsonc
+  h_16148b258796cf 1-10
+.pre-commit-config.yaml
+  h_16148b258796cf 2-6
+README.md
+  h_16148b258796cf 8
+baking/sourdough_starter_maintenance.md
+  h_16148b258796cf 8,14,24,30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "eb5b13a532fcbb8b87d53d5454c8ba321c1b1425",
+  "prompts": {},
+  "humans": {
+    "h_16148b258796cf": {
+      "author": "Daniel W. Ottey <dan@bluefrogs.us>"
+    }
+  }
+}
