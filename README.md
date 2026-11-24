@@ -7,6 +7,7 @@ A curated personal collection of cooking recipes and kitchen notes.
 ### Baking
 
 * [Banana Bread](baking/banana_bread.md)
+* [Doughnut Glaze](baking/doughnut_glaze.md)
 * [Flourless Banana Protein Muffins](baking/banana_protein_muffins.md)
 * [Nestlé Toll House Chocolate Chip Cookies](baking/toll_house_chocolate_chip_cookies.md)
 * [Sourdough Starter Maintenance](baking/sourdough_starter_maintenance.md)

@@ -39,3 +39,7 @@ Adapted from M.S. Milliken & S. Feniger on [Food Network](https://www.foodnetwor
 7. Pour batter into prepared pan and bake 1 hour to 1 hour 10 minutes, until a toothpick inserted in the center comes out clean.
 8. Set aside to cool on a rack for 15 minutes.
 9. Remove bread from pan, invert onto rack, and cool completely before slicing.
+
+## Notes
+
+* Optional: Drizzle cooled loaf with warm [Doughnut Glaze](doughnut_glaze.md).
