@@ -1,6 +1,6 @@
 # Flourless Banana Protein Muffins
 
-Moist, naturally sweetened flourless protein muffins. Adapted from Matt's Fit Chef.
+Moist, naturally sweetened flourless protein muffins. Adapted from [Matt's Fit Chef](https://mattsfitchef.com/banana-protein-muffins/).
 
 ## Preheat
 

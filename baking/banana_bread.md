@@ -1,6 +1,6 @@
 # Banana Bread
 
-Adapted from M.S. Milliken & S. Feniger (Food Network).
+Adapted from M.S. Milliken & S. Feniger on [Food Network](https://www.foodnetwork.com/recipes/banana-bread-recipe-1969572).
 
 ## Preheat
 
