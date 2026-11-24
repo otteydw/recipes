@@ -13,6 +13,10 @@ A curated personal collection of cooking recipes and kitchen notes.
 
 * [French Toast Bake](breakfast/french_toast_bake.md)
 
+### Condiments
+
+* [Sweet Pickle Relish](condiments/sweet_pickle_relish.md)
+
 ### Drinks
 
 * [POG Juice (Passion Orange Guava)](drinks/pog_juice.md)
