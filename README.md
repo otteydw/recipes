@@ -9,6 +9,8 @@ A curated personal collection of cooking recipes and kitchen notes.
 * [Banana Bread](baking/banana_bread.md)
 * [Flourless Banana Protein Muffins](baking/banana_protein_muffins.md)
 * [Sourdough Starter Maintenance](baking/sourdough_starter_maintenance.md)
+* [Sugar Cookies](baking/sugar_cookies.md)
+* [Wilton Buttercream Icing](baking/wilton_buttercream_icing.md)
 
 ### Breakfast
 
@@ -18,17 +20,9 @@ A curated personal collection of cooking recipes and kitchen notes.
 
 * [Sweet Pickle Relish](condiments/sweet_pickle_relish.md)
 
-### Cookies
-
-* [Sugar Cookies](cookies/sugar_cookies.md)
-
 ### Drinks
 
 * [POG Juice (Passion Orange Guava)](drinks/pog_juice.md)
-
-### Frosting
-
-* [Wilton Buttercream Icing](frosting/wilton_buttercream_icing.md)
 
 ### Sides
 
