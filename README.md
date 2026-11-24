@@ -27,6 +27,7 @@ A curated personal collection of cooking recipes and kitchen notes.
 
 * [Mint Wine Mojito](drinks/mint_wine_mojito.md)
 * [POG Juice (Passion Orange Guava)](drinks/pog_juice.md)
+* [Pumpkin Pie Martini](drinks/pumpkin_pie_martini.md) *(To Try)*
 
 ### Sides
 
