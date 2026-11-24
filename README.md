@@ -26,6 +26,10 @@ A curated personal collection of cooking recipes and kitchen notes.
 
 * [POG Juice (Passion Orange Guava)](drinks/pog_juice.md)
 
+### Frosting
+
+* [Wilton Buttercream Icing](frosting/wilton_buttercream_icing.md)
+
 ### Sides
 
 * [Mom's Cranberry-Orange Relish](sides/cranberry_orange_relish.md)
