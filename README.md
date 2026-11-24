@@ -18,6 +18,10 @@ A curated personal collection of cooking recipes and kitchen notes.
 
 * [Sweet Pickle Relish](condiments/sweet_pickle_relish.md)
 
+### Cookies
+
+* [Sugar Cookies](cookies/sugar_cookies.md)
+
 ### Drinks
 
 * [POG Juice (Passion Orange Guava)](drinks/pog_juice.md)
