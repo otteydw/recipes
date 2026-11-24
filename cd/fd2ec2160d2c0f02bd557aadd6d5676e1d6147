@@ -1,0 +1,14 @@
+cookies/sugar_cookies.md
+  h_16148b258796cf 15,17-22,26-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "cdfd2ec2160d2c0f02bd557aadd6d5676e1d6147",
+  "prompts": {},
+  "humans": {
+    "h_16148b258796cf": {
+      "author": "Daniel W. Ottey <dan@bluefrogs.us>"
+    }
+  }
+}
