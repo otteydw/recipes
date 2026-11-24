@@ -7,6 +7,7 @@ A curated personal collection of cooking recipes and kitchen notes.
 ### Baking
 
 * [Banana Bread](baking/banana_bread.md)
+* [Flourless Banana Protein Muffins](baking/banana_protein_muffins.md)
 * [Sourdough Starter Maintenance](baking/sourdough_starter_maintenance.md)
 
 ### Breakfast
