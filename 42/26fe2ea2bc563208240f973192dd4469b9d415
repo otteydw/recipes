@@ -1,0 +1,16 @@
+README.md
+  h_16148b258796cf 25
+drinks/mint_wine_mojito.md
+  h_16148b258796cf 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "4226fe2ea2bc563208240f973192dd4469b9d415",
+  "prompts": {},
+  "humans": {
+    "h_16148b258796cf": {
+      "author": "Daniel W. Ottey <dan@bluefrogs.us>"
+    }
+  }
+}
