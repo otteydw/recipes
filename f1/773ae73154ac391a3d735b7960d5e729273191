@@ -1,0 +1,18 @@
+README.md
+  h_16148b258796cf 10
+baking/banana_bread.md
+  h_16148b258796cf 42-45
+baking/doughnut_glaze.md
+  h_16148b258796cf 1-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "f1773ae73154ac391a3d735b7960d5e729273191",
+  "prompts": {},
+  "humans": {
+    "h_16148b258796cf": {
+      "author": "Daniel W. Ottey <dan@bluefrogs.us>"
+    }
+  }
+}
