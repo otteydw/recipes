@@ -1,0 +1,14 @@
+README.md
+  h_16148b258796cf 12-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "157f5fb9765b5170777def1ec69ee23bd24139d5",
+  "prompts": {},
+  "humans": {
+    "h_16148b258796cf": {
+      "author": "Daniel W. Ottey <dan@bluefrogs.us>"
+    }
+  }
+}
