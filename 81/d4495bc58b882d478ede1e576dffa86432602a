@@ -1,0 +1,16 @@
+README.md
+  h_16148b258796cf 16-19
+condiments/sweet_pickle_relish.md
+  h_16148b258796cf 1-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "81d4495bc58b882d478ede1e576dffa86432602a",
+  "prompts": {},
+  "humans": {
+    "h_16148b258796cf": {
+      "author": "Daniel W. Ottey <dan@bluefrogs.us>"
+    }
+  }
+}
