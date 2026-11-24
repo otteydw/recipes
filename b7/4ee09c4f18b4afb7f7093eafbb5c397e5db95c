@@ -1,0 +1,16 @@
+README.md
+  h_16148b258796cf 30
+drinks/pumpkin_pie_martini.md
+  h_16148b258796cf 1-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "b74ee09c4f18b4afb7f7093eafbb5c397e5db95c",
+  "prompts": {},
+  "humans": {
+    "h_16148b258796cf": {
+      "author": "Daniel W. Ottey <dan@bluefrogs.us>"
+    }
+  }
+}
